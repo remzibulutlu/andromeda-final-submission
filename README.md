@@ -42,7 +42,7 @@ Web3 wallet
 Quick Start
 
 # Clone the repository
-git clone https://github.com/yourusername/decentralaid
+git clone https://github.com/remzibulutlu/andromeda-final-submission/
 
 # Install dependencies
 npm install
