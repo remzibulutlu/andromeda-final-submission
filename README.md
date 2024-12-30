@@ -19,8 +19,8 @@ Communities have a voice in decision-making
 Trust in humanitarian aid is restored
 Resources are allocated where they're needed most
 
-## (https://embeddables.testnet.andromedaprotocol.io/coreum-testnet-1/DecentralAid-Exchange "Embeddable Links")
-Demo Link: (https://embeddables.testnet.andromedaprotocol.io/coreum-testnet-1/DecentralAid-Exchange "Click here for demo")
+## Embeddable Links
+Click here for DEMO: https://embeddables.testnet.andromedaprotocol.io/coreum-testnet-1/DecentralAid-Exchange
 
 ## Technical Implementation
 Smart Contract Development
