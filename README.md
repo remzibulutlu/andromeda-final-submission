@@ -1,38 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+By refactoring the forked project, this final project submission can be deployed.
 
-## Getting Started
+### DecentralAid - Blockchain-Powered Humanitarian Aid Distribution Platform
+## Who We Are
+We are a team of developers, humanitarian workers, and blockchain enthusiasts committed to revolutionizing aid distribution through decentralized technology. Our mission is to ensure that every donation reaches those who need it most, with complete transparency and efficiency.
+# Project Details
+DecentralAid is a Web3 platform that combines blockchain technology, DAO governance, and AI-driven decision-making to transform humanitarian aid distribution. Our system creates a transparent, accountable, and efficient aid distribution mechanism that overcomes traditional centralized limitations.
+## Key Features
+Blockchain-Based Transparency: Immutable record-keeping of all donations and distributions
+DAO Governance: Community-driven decision-making for aid allocation
+AI-Powered Prioritization: Smart allocation of resources based on real-time needs
+Verified Recipients: Government ID integration for secure aid distribution
+Smart Contract Automation: Automated aid distribution and tracking
+## Vision
+We envision a world where humanitarian aid reaches its intended recipients without friction or doubt. Through blockchain technology and AI, we're building a future where:
+Every donation is traceable
+Aid distribution is efficient and data-driven
+Communities have a voice in decision-making
+Trust in humanitarian aid is restored
+Resources are allocated where they're needed most
+## Technical Implementation
+Smart Contract Development
+Core Contracts
+Aid Distribution Contract
+DAO Governance Contract
+Token Economics Contract
+Identity Verification Integration
+AI Integration
+Priority Assessment System
+Needs Analysis Algorithm
+Emergency Response Protocol
+Frontend Development
+Donor Interface
+Recipient Portal
+Administrative Dashboard
+Analytics Platform
+## Installation and Setup
+Prerequisites
+Node.js v14+
+Rust 1.55+
+Web3 wallet
+Quick Start
 
-First, run the development server:
+# Clone the repository
+git clone https://github.com/yourusername/decentralaid
 
-```bash
+# Install dependencies
+npm install
+
+# Configure environment
+ cp .env.example .env
+# Edit .env with your settings
+
+# Run development server
 npm run dev
-# or
-yarn dev
-```
+# Smart Contract Deployment
+# Compile contracts
+npm run compile
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Deploy to testnet
+npm run deploy:testnet
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# Deploy to mainnet
+npm run deploy:mainnet
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+# Contributing
+We welcome contributions! Please read our Contributing Guidelines before submitting pull requests.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Testing
 
-## Learn More
+# Run all tests
+npm test
 
-To learn more about Next.js, take a look at the following resources:
+# Run specific test suite
+npm test -- --grep "DAO Tests"
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Licensing
-
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
