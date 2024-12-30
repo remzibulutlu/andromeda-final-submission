@@ -1,4 +1,4 @@
-By refactoring the forked project, this final project submission can be deployed.
+By refactoring the forked project, this final project submission can be easily deployed.
 
 ### DecentralAid - Blockchain-Powered Humanitarian Aid Distribution Platform
 ## Who We Are
